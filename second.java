@@ -4,5 +4,6 @@ public class second{
     System.out.println("i am srujana");
      System.out.println("hello");
      System.out.println("from davangere");
+    System.out.println("hii");
   }
 }
